@@ -1,32 +1,44 @@
-# 🎨 Introdução ao Estilo com CSS
+# Imobiliária Santos 🏡
 
-Ao estilizar páginas, muitas vezes lidamos com a seguinte situação: **como definir estilos diferentes para dois elementos com as mesmas tags?**
+Um site institucional fictício criado com HTML e CSS puros, apresentando os principais serviços e diferenciais da Imobiliária Santos.
 
-Seletores são fundamentais para estilizar elementos HTML. Você pode utilizar **seletores de tag** ou **de classe** para definir estilos na sua página.
+## 📌 Funcionalidades
+
+- Navegação por âncoras internas
+- Seções: Sobre, Serviços, Corretores e Contato
+- Mapa do Google Maps com localização da empresa
+- Links de contato direto por e-mail
+
+## 💻 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+## 📁 Estrutura de Diretórios
+/ ├── index.html ├── style.css └── assets/ ├── logo.png ├── banner.jpg ├── imovel-assinatura.jpg └── corretores.jpg
+
+
+## 🎨 Destaques do Layout
+
+- Layout centralizado e responsivo
+- Cores suaves e confiáveis, transmitindo segurança
+- Fonte legível e espaçamento bem distribuído
+- Listas com marcadores estilizados (`disc`)
+- Links estilizados com efeitos visuais discretos
+
+## 🚀 Como Executar Localmente
+
+1. Clone ou baixe este repositório
+2. Abra o arquivo `index.html` no seu navegador favorito
+3. Pronto! O site já estará funcionando
+
+## ℹ️ Observações
+
+> Este projeto é estático, sem backend, com fins educativos e demonstrativos. Todas as imagens e informações são fictícias.
 
 ---
 
-## 📚 O que você vai aprender
-
-- Estilizar elementos pela **tag**
-- Estilizar elementos pela **classe**
-- Utilizar um mesmo estilo para **vários elementos**
-
-É comum em um código CSS utilizarmos diversos seletores para definir os estilos dos elementos.  
-Os **seletores de tag** geralmente são usados para estilos globais, enquanto os **seletores de classe** são usados para estilos mais específicos.
-
----
-
-## 🖼️ Exemplo visual
-
-![Exemplo de CSS moderno](https://www.w3schools.com/css/img_mountains.jpg)
-
-> *Imagem ilustrativa de estilos aplicados com CSS. Fonte: W3Schools*
-
----
-
-## 💡 Dica
-
+Feito com 💙 por Romulo
 
 
 
